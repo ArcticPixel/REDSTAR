@@ -1,0 +1,32 @@
+h1{
+    width: 50%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    font-size: 40px;
+    font-family: Arial;
+
+}
+
+.upperlogoimg{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    margin: 0;   /* Remove body margins */
+}
+.bgimg{
+    width: 100%;
+background-repeat: repeat-y;
+}
+h2{
+        width: 50%;
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-top: 5%;
+    font-size: 25px;
+    font-family: Arial;
+}
